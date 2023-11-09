@@ -10,7 +10,7 @@ Hola mi nombre es alexa nahuel
 💻 Soy programadora
 
 
-📚 Logre mi objetivo de aprender a usar diferentes leguajes de programacion 
+📚 Logre mi objetivo de aprender a usar diferentes lenguajes de programacion 
 
 
 📝 Tambien soy profesional De tercer grado en Ingles T.I.C
@@ -19,7 +19,7 @@ Hola mi nombre es alexa nahuel
 🌱Soy una aposionada de lo que hago y me he propuesto seguir creciendo mucho mas en este camino que recien comienza 
 
 
-🤝 He desarrollado grandes habilidades para poder trabajar equipo
+🤝 He desarrollado grandes habilidades para poder trabajar en equipo
 
 
 
