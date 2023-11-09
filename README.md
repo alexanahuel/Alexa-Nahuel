@@ -8,5 +8,11 @@ Hola mi nombre es alexa nahuel
 🌱Soy una aposionada de lo que hago y me he propuesto seguir creciendo mucho mas en este camino que recien comienza         
 🤝 He desarrollado grandes habilidades para poder trabajar equipo
 
-https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966
-🛠️ Skill
+
+
+
+
+🛠️Skill
+Java C Python JavaScript React HTML5 CSS3 Sass Bootstrap Markdown Nodejs Npm Firebase Microsoft Sql Server Git GitLab GitHub VS Code Eclipse-IDE Powershell Windows
+
+
